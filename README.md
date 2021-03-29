@@ -1,2 +1,2 @@
 # Convertidor
-convertidor en htlm,css y javascrip implementando librerias de bootstrap
+convertidor en htlm,css y javascript implementando librerias de bootstrap
